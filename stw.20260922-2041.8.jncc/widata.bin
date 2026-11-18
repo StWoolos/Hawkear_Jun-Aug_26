@@ -1,0 +1,190 @@
+# Created by Octave 5.2.0, Tue Sep 22 20:42:10 2026 GMT <unknown@Tower-PC>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 75
+C:\Users\St Woolos\HawkEarFiles\Recordings\stw\stw.20260922-2041.s8t9.8.wav
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20260922-2041
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 39
+Newport, Cathedral Church of St. Woolos
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 7
+Touch 8
+
+
+# name: piStdev
+# type: scalar
+30.645976495608842
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+12.2
+
+
+# name: piStdevPct
+# type: scalar
+12.1890165265992
+
+
+# name: piTouchlength
+# type: scalar
+258
+
+
+# name: piPiecelength
+# type: scalar
+280
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 13
+9 mins 9 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 14
+9 mins 57 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 22
+Bristol Surprise Major
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+2 hrs 59 mins
+
+
+# name: numeric
+# type: scalar
+10721302.111976635
+
+
+
+
+# name: piNBells
+# type: scalar
+8
+
+
+# name: piRowsBadInPiece
+# type: scalar
+7
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+45
+
+
+# name: back
+# type: scalar
+33
+
+
+# name: all
+# type: scalar
+78
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+23.836260329063045
+
+
+# name: back
+# type: scalar
+22.847443839654488
+
+
+# name: all
+# type: scalar
+23.226540310980706
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: sq_string
+# elements: 1
+# length: 11
+The Daisy 8
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 1
+9
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 1
+8
+
+
+
+
